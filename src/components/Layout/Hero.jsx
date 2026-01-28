@@ -1,5 +1,5 @@
 import React from 'react'
-import heroImg from '../../assets/Sebilj.jpg'
+import heroImg from '../../assets/primjeri_suvenira.png'
 import { Link } from 'react-router-dom'
 import { useTranslation } from 'react-i18next';
 import '../../../i18n';
